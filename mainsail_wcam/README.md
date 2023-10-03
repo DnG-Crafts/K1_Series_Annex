@@ -1,9 +1,10 @@
-mainsail version v2.7.1
+# mainsail version v2.7.1
+
+##vthis version has a modification to the index.html so it displays the camera stream.
+
+
 
 Instruction
-
-this version has a modification to the index.html so it displays the camera stream.
-
 
 Put the same level directory file ( mainsail ) in the root directory of the U disk
 
