@@ -1,6 +1,6 @@
 # mainsail version v2.7.1
 
-##vthis version has a modification to the index.html so it displays the camera stream.
+## this version has a modification to the index.html so it displays the camera stream.
 
 
 
