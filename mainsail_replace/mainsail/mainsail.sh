@@ -14,6 +14,7 @@ if [ "x$1" = "xinstall" ]; then
 	reboot
 	
 elif [ "x$1" = "xunstall" ]; then
+    cd /overlay/upper
     /etc/init.d/S50nginx stop
     /etc/init.d/S56moonraker_service stop
     rm -rf /etc/init.d/S50nginx /etc/init.d/S56moonraker_service 
