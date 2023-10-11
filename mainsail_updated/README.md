@@ -1,10 +1,10 @@
-# mainsail version v2.8.0
+# Mainsail version v2.8.0
 
 ## this version has a modification to enable the update manager and includes crowsnest
 
 
 
-Instruction
+### Instruction
 
 Put the mainsail folder on the root of a USB drive and plug it in to the printer.
 
@@ -16,11 +16,11 @@ Copy the files ( mainsail.sh and mainsail.tar ) to directory ( /usr/data )<br>
 
 ```cp /tmp/udisk/sda1/mainsail/* /usr/data/```<br>
 
-Install <br>
+### Install <br>
 
 ```/usr/data/mainsail.sh install```<br>
 
-Uninstall <br>
+### Uninstall <br>
 
 ```/usr/data/mainsail.sh unstall```<br>
 
