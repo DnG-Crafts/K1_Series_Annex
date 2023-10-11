@@ -26,3 +26,4 @@ to setup the webcam you need to modify the url snapshot with your printers ip
 
 ```http://PRINTERIP:8080/?action=snapshot```
 
+<img src=https://github.com/DnG-Crafts/K1_Series_Annex/blob/main/mainsail_updated/cam.jpg>
