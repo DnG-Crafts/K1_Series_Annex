@@ -1,4 +1,4 @@
-# mainsail version v2.7.1
+# mainsail version v2.8.0
 
 ## this version has a modification to enable the update manager and includes crowsnest
 
