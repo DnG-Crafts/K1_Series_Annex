@@ -1,8 +1,8 @@
 # Mainsail version v2.8.0
 
 ## this version has a modification to enable the update manager and includes crowsnest
-this version will replace the stock creality webportal and operate on port 80 so there is no need to add a port to the printer url
-the web camera will also operate normally.
+this version will replace the stock creality webportal and operate on port 80 so there is no need to add a port to the printer url<br>
+the web camera will also operate normally using the default settings.
 
 
 if you want to restore the default creality portal then use the uninstall command below and everything will be restored.
